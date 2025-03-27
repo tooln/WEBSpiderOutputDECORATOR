@@ -1,0 +1,2 @@
+# WEBSpiderOutputDECORATOR
+WEBSpider Output DECORATOR
